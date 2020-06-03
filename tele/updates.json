@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 128052255,
+      "message": {
+        "message_id": 8,
+        "from": {
+          "id": 902879948,
+          "is_bot": false,
+          "first_name": "Ernest",
+          "last_name": "Ibubizm",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 902879948,
+          "first_name": "Ernest",
+          "last_name": "Ibubizm",
+          "type": "private"
+        },
+        "date": 1590759083,
+        "text": "ok"
+      }
+    }
+  ]
+}
